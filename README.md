@@ -1,7 +1,9 @@
 # flet-python-shift-control
-The order of the project launch is main -> and then on the next opening. 
+The order of the project launch is "main" -> and then on the next opening. 
 
 PLEASE NOTE that your file path may differ from mine and new files will not be opened, please be careful
+
+I also left a file "project.rar", all files are packed 
 
 This project provides an automated system for monitoring employees and shifts.
 This project allows users to utilize their own application for scheduling shifts. The project involves two types of users.
