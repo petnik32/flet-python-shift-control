@@ -12,6 +12,11 @@ Calculate their salary for a specific period.
 
 Complete training (with questions slightly off-topic =)).
 
+
+![image](https://github.com/user-attachments/assets/f0621a53-a17e-4933-b61d-5b9bec61a177)
+
+
+
 Admin/Manager: They can:
 
 View all database tables.
